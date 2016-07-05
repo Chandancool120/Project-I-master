@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737219014029",
+    "firebase_url": "https://insignia-master.firebaseio.com",
+    "project_id": "insignia-master",
+    "storage_bucket": "insignia-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737219014029:android:a5520daf3205f2c9",
+        "android_client_info": {
+          "package_name": "com.example.android.insignia2k16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737219014029-agkq708ub56e6aghih42ql6ohlvrgekn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.insignia2k16",
+            "certificate_hash": "BED991A7D067D12D967A4444D586280A7F27CA0E"
+          }
+        },
+        {
+          "client_id": "737219014029-ogkgkqu435illenukih008sehak4esbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wFtFy9GN4vakmZQFLWxgwpXZluvCcUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737219014029-ogkgkqu435illenukih008sehak4esbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
